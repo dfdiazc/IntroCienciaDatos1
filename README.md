@@ -41,7 +41,7 @@ En ésta se muestra tanto la distribución obtenida como el valor de "real_diff"
 
 ```python
 p_value = np.count_nonzero(diffs > real_diff)/len(diffs)
-p_value = 0.021
+p_value = 0.0212
 ```
 
 Es decir, comparando este resultado con un valor estándar de 0.05, vemos que es posible negar la hipótesis nula, respondiendo así a la primera parte de la pregunta planteada. Esto es, la diferencia entre el salario promedio entre las dos profesiones es estadísticamente significativa.
