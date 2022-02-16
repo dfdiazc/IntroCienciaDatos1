@@ -68,7 +68,7 @@ Ya teniendo estos datos, es posible realizar predicciones utilizando los modelos
   <img src="https://github.com/dfdiazc/IntroCienciaDatos1/blob/main/results/predictions.png?raw=true">
 </p>
 
-##Resultados
+## Resultados
 Como resultado es posible decir que fue posible responder satisfactoriamente a la pregunta planteada inicialmente. Sí hay una diferencia significativa entre los salarios promedio de un egresado de Ingeniería Mecánica y uno de Ingeniería Electrónica, pudiendo realizar predicciones a partir de los modelos obtenidos utilizando técnicas estadísticas, las que se resumen a continuación:
 | Experiencia | Ingeniería Mecánica | Ingeniería Electrónica |
 | :---: | :---: | :---: |
