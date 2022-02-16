@@ -78,4 +78,4 @@ Como resultado es posible decir que fue posible responder satisfactoriamente a l
 | 9 | $ 8.313.656 +/- 0.076287 | 8.394.372 +/- 0.108002 |
 | 10| $ 9.051.472 +/- 0.088594 | 9.189.096 +/- 0.126801 |
 
-Así, utilizando los datos obtenidos, se concluye que, en promedio, en Colombia, un egresado de Ingeniería Mecánica tiene un salario de $ 218.667 mayor que uno de Ingeniería Electrónica.
+Así, utilizando los datos obtenidos, se concluye que, en promedio, en Colombia, un egresado de Ingeniería Mecánica tiene un salario de $ 218.667 mayor que uno de Ingeniería Electrónica, teniendo en cuenta los años de experiencia en ambas carreras.
