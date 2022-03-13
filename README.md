@@ -5,9 +5,11 @@ Se presentan los resultados del Taller #1 del curso de Introducción a la Cienci
 **Existe una diferencia significativa entre el salario promedio de un egresado de Ingeniería Mecánica e Ingeniería Electrónica en Colombia? Si es así, es posible realizar una predicción de los mismos utilizando un modelo generado a partir de los datos?**
 
 ## Datos Utilizados
+{% comment %}
 Los datos utilizados fueron obtenidos a partir del **SNIES** (Sistema Nacional de Información de la Educación Superior), la cual es una rama del Ministerio de Educación Colombiano.
+{% endcomment %}
 
-Estos datos, ya limpios, consisten de 3 columnas: titulo obtenido, salario mensual (en pesos colombianos) y tiempo de experiencia (en meses). Un extracto ejemplo de los datos se presenta a continuación:
+Los datos, ya limpios, consisten de 3 columnas: titulo obtenido, salario mensual (en pesos colombianos) y tiempo de experiencia (en meses). Un extracto ejemplo de los datos se presenta a continuación:
 | Titulo | Salario | Experiencia |
 | :---: | :---: | :---: |
 | Ingeniería Mecánica | $ 4.054.403 | 34 |
